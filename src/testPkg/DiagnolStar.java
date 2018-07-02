@@ -12,6 +12,8 @@ public class DiagnolStar {
 			}
 			System.out.println("*");
 		}
+		
+		
 
 	}
 
